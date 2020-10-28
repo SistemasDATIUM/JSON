@@ -1,0 +1,27 @@
+{
+  "routing": [
+    {
+      "RURI": 34915552345,
+      "PBXIP": "178.239.216.22",
+      "comment": "Voipswitch .22"
+    },
+    {
+      "RURI": 34963825205,
+      "PBXIP": "178.239.216.21",
+      "comment": "Voipswitch .21"
+    },
+    {
+      "RURI": 349575552345,
+      "PBXIP": "172.31.254.11",
+      "comment": "PBX B (Cordoba)"
+    },
+    {
+      "RURI": 34955552345,
+      "PBXIP": "172.31.254.10",
+      "comment": "PBX A (Malaga/Sevilla)"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
